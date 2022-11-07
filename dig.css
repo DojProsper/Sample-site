@@ -30,7 +30,6 @@
     .redbtn{
         font-size: 15px;
         background-color: white;
-        
     }
     .redbtn:hover{
         color: white;
@@ -65,7 +64,7 @@
     .re{
         text-align: center;
         padding: 0px 10px;
-        font-family: cursive;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         margin-bottom: 20px;
     }    .pro{
         color: white;
@@ -73,7 +72,7 @@
     .any{
         text-align: center;
         padding: 0px 10px;
-        font-family: cursive;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         margin-bottom: 20px;
     }
     .fd{
@@ -159,7 +158,7 @@
     .re{
         text-align: center;
         padding: 0px 10px;
-        font-family: cursive;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         margin-bottom: 20px;
     }
     .pro{
@@ -168,7 +167,7 @@
     .any{
         text-align: center;
         padding: 0px 10px;
-        font-family: cursive;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         margin-bottom: 20px;
     }
     .fd{
@@ -253,7 +252,7 @@
     .re{
         text-align: center;
         padding: 0px 10px;
-        font-family: cursive;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         margin-bottom: 20px;
         font-size: 20px;
     }
@@ -263,7 +262,7 @@
     .any{
         text-align: center;
         padding: 0px 10px;
-        font-family: cursive;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         margin-bottom: 20px;
         font-size: 20px;
     }
@@ -351,7 +350,7 @@
     .re{
         text-align: center;
         padding: 0px 10px;
-        font-family: cursive;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         margin-bottom: 20px;
         font-size: 20px;
     }
@@ -361,7 +360,7 @@
     .any{
         text-align: center;
         padding: 0px 10px;
-        font-family: cursive;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         margin-bottom: 20px;
         font-size: 20px;
     }
@@ -449,7 +448,7 @@
     .re{
         text-align: center;
         padding: 0px 10px;
-        font-family: cursive;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         margin-bottom: 20px;
         font-size: 20px;
     }
@@ -459,7 +458,7 @@
     .any{
         text-align: center;
         padding: 0px 10px;
-        font-family: cursive;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         margin-bottom: 20px;
         font-size: 20px;
     }
@@ -548,7 +547,7 @@
     .re{
         text-align: center;
         padding: 0px 10px;
-        font-family: cursive;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         margin-bottom: 20px;
         font-size: 20px;
     }
@@ -558,7 +557,7 @@
     .any{
         text-align: center;
         padding: 0px 10px;
-        font-family: cursive;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         margin-bottom: 20px;
         font-size: 20px;
     }
@@ -646,7 +645,7 @@
     .re{
         text-align: center;
         padding: 0px 10px;
-        font-family: cursive;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         margin-bottom: 20px;
         font-size: 20px;
     }
@@ -657,7 +656,7 @@
     .any{
         text-align: center;
         padding: 0px 10px;
-        font-family: cursive;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         margin-bottom: 20px;
         font-size: 20px;
     }
@@ -749,7 +748,7 @@
     .re{
         text-align: center;
         padding: 0px 10px;
-        font-family: cursive;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         margin-bottom: 20px;
         font-size: 20px;
     }
@@ -760,7 +759,7 @@
     .any{
         text-align: center;
         padding: 0px 10px;
-        font-family: cursive;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         margin-bottom: 20px;
         font-size: 20px;
     }
@@ -849,7 +848,7 @@
     .re{
         text-align: center;
         padding: 0px 10px;
-        font-family: cursive;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         margin-bottom: 20px;
         font-size: 20px;
     }
@@ -860,7 +859,7 @@
     .any{
         text-align: center;
         padding: 0px 10px;
-        font-family: cursive;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         margin-bottom: 20px;
         font-size: 20px;
     }
@@ -952,7 +951,7 @@
     .re{
         text-align: center;
         padding: 0px 10px;
-        font-family: cursive;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         margin-bottom: 30px;
         font-size: 25px;
     }
@@ -963,7 +962,7 @@
     .any{
         text-align: center;
         padding: 0px 10px;
-        font-family: cursive;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         margin-bottom: 20px;
         font-size: 25px;
     }
@@ -1055,7 +1054,7 @@
     .re{
         text-align: center;
         padding: 0px 10px;
-        font-family: cursive;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         margin-bottom: 45px;
         font-size: 35px;
     }
@@ -1066,7 +1065,7 @@
     .any{
         text-align: center;
         padding: 0px 10px;
-        font-family: cursive;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         margin-bottom: 20px;
         font-size: 35px;
     }
@@ -1161,7 +1160,7 @@
     .re{
         text-align: center;
         padding: 0px 10px;
-        font-family: cursive;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         margin-bottom: 45px;
         font-size: 55px;
     }
@@ -1172,7 +1171,7 @@
     .any{
         text-align: center;
         padding: 0px 10px;
-        font-family: cursive;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         margin-bottom: 20px;
         font-size: 55px;
     }
